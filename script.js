@@ -466,17 +466,17 @@ const typedPages = new Set();
 // AUDIO SETUP
 const musicPlaylist = [
   {
-    src: "style/sound/một đời.mp3",
+    src: "một đời.mp3",
     title: "Một Đời",
     artist: "Chồng iu Vợ",
   },
   {
-    src: "style/sound/THẾ GIỚI CỦA ANH.mp3",
+    src: "THẾ GIỚI CỦA ANH.mp3",
     title: "Thế Giới Của Anh",
     artist: "Chồng iu Vợ",
   },
   {
-    src: "style/sound/50 Năm Về Sau.mp3",
+    src: "50 Năm Về Sau.mp3",
     title: "50 Năm Về Sau",
     artist: "Chồng iu Vợ",
   },
@@ -486,10 +486,10 @@ const bgMusic = new Audio(musicPlaylist[currentTrackIndex].src);
 bgMusic.loop = false;
 
 const musicPhotos = [
-  "style/img/AnhBia.jpg",
+  "./AnhBia.jpg",
   ...Array.from(
     { length: 16 },
-    (_, index) => `style/img/Anh (${index + 1}).jpg`,
+    (_, index) => `./Anh (${index + 1}).jpg`,
   ),
 ];
 const musicDisc = document.getElementById("music-disc");
@@ -654,7 +654,7 @@ showMusicImage(musicImageIndex);
 updateMusicTrackInfo();
 updateMusicState();
 
-const popSfx = new Audio("style/pop.mp3");
+const popSfx = new Audio("./pop.mp3");
 
 function playPop() {
   const pop = popSfx.cloneNode();
