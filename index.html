@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CunQuang</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Dancing+Script:wght@600;700&family=Patrick+Hand&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./style/style.css" />
+  </head>
+
+  <body>
+    <div class="hearts-background" id="hearts-background"></div>
+    <img src="style/flag.png" class="corner-flag flag-left" alt="flag" />
+    <img src="style/flag.png" class="corner-flag flag-right" alt="flag" />
+    <button
+      id="music-disc"
+      class="music-disc"
+      type="button"
+      aria-label="Mở trình phát nhạc"
+    >
+      <img src="style/sound/disc.png" alt="Đĩa nhạc" />
+    </button>
+    <div id="welcome-screen" class="welcome-screen">
+      <div class="welcome-container">
+        <div class="number-lock" aria-label="Nhập mật khẩu gồm 4 chữ số">
+          <img
+            src="style/img/AnhBia.jpg"
+            class="welcome-avatar"
+            alt="Ảnh bìa"
+          />
+          <div class="lock-dials" id="lock-dials"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="book-screen" class="book-screen hidden">
+      <div class="book-zoom-wrapper" id="book-zoom-wrapper">
+        <div class="book-container" id="book-container">
+          <div class="book" id="book">
+            <div
+              class="spine-shadow"
+              id="book-spine"
+              style="display: none"
+            ></div>
+          </div>
+        </div>
+        <p id="click-to-open" class="click-to-open">Nhấn vào để mở sách</p>
+        <button id="btn-restart" class="btn-restart">Đọc lại</button>
+      </div>
+    </div>
+    <script src="./style/script.js"></script>
+  </body>
+</html>
