@@ -1,57 +1,57 @@
 const pageData = [
   {
     title: "HAPPY BIRTHDAY HONEY",
-    image: "style/img/Anh (1).jpg",
-    extraImage: "style/img/Anh (9).jpg",
+    image: "Anh (1).jpg",
+    extraImage: "Anh (9).jpg",
     content:
       "Chúc mừng sinh nhật Vợ Iu của Chồng nha xin chúc cho vợ iu tuổi mới luôn luôn hạnh phúc và có Chồng bên cạnh Vợ Iu cả đời nha Chồng iu Vợ nhìu lém ạ mong rằng tuổi mới Vợ có nhiều điều mới mỗi Chồng là cũ nhaa hehe Chồng iu Vợ nhìuu bọn mình phải luôn luôn cố gắng vì nhau nha mãi mãi iu nhau luôn không bao giờ chia xa sinh nhật vui vẻ nha vợ iu moazzzz Chồng iu Vợ nhìu không bao giờ đổi thay ",
   },
   {
     title: "HAPPY BIRTHDAY HONEY",
-    image: "style/img/Anh (2).jpg",
-    extraImage: "style/img/Anh (10).jpg",
+    image: "Anh (2).jpg",
+    extraImage: "Anh (10).jpg",
     content:
       "hehhehe hy vọng Vợ iu thích món quà nè nha Chồng tự tay làm đó nhaa mất cả tuần lun á vừa làm vừa mò căn chỉnh nè kia sau Chồng học lên pro max rùi Chồng làm cái xịn thật là xịn cho Vợ lun ạ Chồng định làm thành quyển scrap book luôn nhưng trình Chồng đến đây được thui hic hic hy vọng Vợ sẽ vui khi đón nhận món quà nè nha và chúc cho Vợ Iu sinh nhật vui vẻ tiền tài đến với Vợ và bọn mình cưới được nhau hạnh phúc với nhau đến già luôn nha",
   },
   {
     title: "HAPPY BIRTHDAY HONEY",
-    image: "style/img/Anh (3).jpg",
-    extraImage: "style/img/Anh (11).jpg",
+    image: "Anh (3).jpg",
+    extraImage: "Anh (11).jpg",
     content:
       "Chồng biết Chồng Không hoàn hảo không được như Vợ mong muốn mà Vợ vẫn chọn yêu Chồng Chồng xin lỗi vì những lần làm vợ buồn nhiều nhaa Chồng sẽ cố gắng thay đổi để hoàn hảo nhất trong mắt Vợ nha vì Chồng yêu Vợ rất nhiều phải lun lun cố gắng vì nhau đó nha gái iuuu cảm ơn Vợ vì đã luôn tha thứ và đồng hành bên Chồng lúc khó khăn nhaa sau nè Chồng sẽ bù đắp thiệt nhìu cho Vợ Iu nhaa ",
   },
   {
     title: "HAPPY BIRTHDAY HONEY",
-    image: "style/img/Anh (4).jpg",
-    extraImage: "style/img/Anh (12).jpg",
+    image: "Anh (4).jpg",
+    extraImage: "Anh (12).jpg",
     content:
       "Chồng iu Vợ nhìu lém ạ Chồng chỉ mún cưới Vợ Iu thui không muốn chia xa Vợ âu hic hic Vợ luôn luôn quan trọng nhất với Chồng ạ vô giá luôn ạ Vợ là cục hạnh phúc của Chồng ạ phải lun lun iu thương nhau quan tâm nhau thật nhìu đó nha vì Vợ quan trọng siu cấp quan trọng trong đời của Chồng lun nên là phải iu nhau thật thật là nhìu đến già lun không bao giờ chia xa nhau lun nha đầu bạc răng long lun nha Vợ Iu của Chồng Chồng iu vợ siu cấp vũ trụ lun ạ chụt chụt ",
   },
   {
     title: "Những chuyến đi",
-    image: "style/img/Anh (5).jpg",
-    extraImage: "style/img/Anh (13).jpg",
+    image: "Anh (5).jpg",
+    extraImage: "Anh (13).jpg",
     content:
       "hehhehe lần đầu tiên đi du lịch với nhau đã xuất ngoại xồi hihi đi với Vợ trộm vía vui qué nên đi tận 2 lần trong năm lun chồng thích lém ạ mong rằng sẽ có thật nhìu chuyến đi với nhau hơn nữa nha đi du lịch với nhau đến già luôn nhìn ảnh mò nhớ Vợ Iu quá trời chỉ muốn nghỉ học đi du lịch cả năm với Vợ Iu thui chứ chả mún i học xí nèo nhưng nghĩ phải cố gắng để kiếm xiền sau nè cho Vợ i du lịch thật là nhìu nữa  ",
   },
   {
     title: "Những chuyến đi",
-    image: "style/img/Anh (6).jpg",
-    extraImage: "style/img/Anh (14).jpg",
+    image: "Anh (6).jpg",
+    extraImage: "Anh (14).jpg",
     content:
       "Kỷ niệm Huế-Đà Nẵng-Hội An chuyến nè cũng i tận 2 lần lun hehe lần đầu tiên i hới fail tại Chồng chụp ảnh xí heheheh sory Vợ nha giờ Chồng chụp ảnh ở lê vồ thượng thừa rùi Vợ nhỉ xong phòng cứ thông thống ra làm Vợ Chồng mất tự nhiên nữa nhưng chạ seo trộm vía i với Vợ vui lém chỉ cần được i với Vợ là Chồng vui xồi đợi Chồng có ê tô bọn mình làm chuyến zo đây có 2 đứa thui nha Chồng iu Em Bé Cún của Chồng nhìu nhìu lém lém ạ ạ",
   },
   {
     title: "Những chuyến đi",
-    image: "style/img/Anh (7).jpg",
-    extraImage: "style/img/Anh (15).jpg",
+    image: "Anh (7).jpg",
+    extraImage: "Anh (15).jpg",
     content:
       "Năm nay như lộc i du lịch của bọn mình ý nhỉ hehehe đi 3 chuyến Hạ Long lun dù hơi ngắn ngày nhưng mò có vợ iu đi cùng đi đâu dù ngắn hay dài Chồng cũng thấy vui hết ý ạ còn được măm ngon nữa hihi năm sau phải phát huy đi gấp đôi như này lun đó nhaa gấp 3 càng tốt ạ hy vọng sắp tới bọn mình lun có nhau và đi du lịch thật nhìu chỗ với nhau lun nha thật nhìu xiền để đi du lịch nha à tất cả các chuyến du lịch Vợ đều làm đẽ lém ạ Vợ tuyệt nhất Chồng iu Vợ nhìu lém ạ ",
   },
   {
     title: "Gửi đến cô gái của tui",
-    image: "style/img/Anh (8).jpg",
-    extraImage: "style/img/Anh (16).jpg",
+    image: "Anh (8).jpg",
+    extraImage: "Anh (16).jpg",
     content:
       "Cảm ơn Vợ Iu vì đã chọn yêu Chồng tin tưởng Chồng tha thứ cho Chồng và bên cạnh Chồng vào những lúc Chồng khó khăn nhất nha Chồng thương Vợ nhìu lém ạ Chồng cũng xin lỗi Vợ Iu vì những lần làm Vợ buồn ạ Chồng sẽ cố gắng để bọn mình luôn vui vẻ không có ai phải buồn nữa nha Chồng iu và thương Vợ nhìu ạ Chồng đã coi Vợ và nhà Vợ là gia đình Chồng rùi ạ Chồng biết Chồng phải cố gắng nhiều nhưng Chồng sẽ không ngừng cố gắng để yêu Vợ bù đắp cho Vợ Chồng xin lỗi và Chồng iu Vợ nhìu lắm ạ mãi mãi bên nhau nha "
   },
@@ -82,7 +82,7 @@ function createSlideTrack(imageNumbers, direction) {
         ${loopImages
           .map(
             (imageNumber) => `
-          <img class="slide-photo" src="style/img/Anh (${imageNumber}).jpg" alt="Bảo Ngọc">
+          <img class="slide-photo" src="./Anh (${imageNumber}).jpg" alt="Bảo Ngọc">
         `,
           )
           .join("")}
