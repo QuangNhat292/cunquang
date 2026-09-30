@@ -466,17 +466,17 @@ const typedPages = new Set();
 // AUDIO SETUP
 const musicPlaylist = [
   {
-    src: "một đời.mp3",
+    src: "./một đời.mp3",
     title: "Một Đời",
     artist: "Chồng iu Vợ",
   },
   {
-    src: "THẾ GIỚI CỦA ANH.mp3",
+    src: "./THẾ GIỚI CỦA ANH.mp3",
     title: "Thế Giới Của Anh",
     artist: "Chồng iu Vợ",
   },
   {
-    src: "50 Năm Về Sau.mp3",
+    src: "./50 Năm Về Sau.mp3",
     title: "50 Năm Về Sau",
     artist: "Chồng iu Vợ",
   },
